@@ -87,6 +87,7 @@ Python
 if __name__ == "__main__":
 
 ●Starts the application
+
 ●Creates window and runs main loop
 
 ⚡ Key Concepts Used
