@@ -46,13 +46,18 @@ Includes:
 ●Special:
 
    ○ C → Clear screen
+
    ○ DEL → Delete last character
+
    ○ = → Evaluate expression
+
    ○ √ → Square root
+
    ○ ^2 → Square
 
 5. Method: button_click(self, value)
 Handles all button actions:
+
 ●C → clears display
 
 ●DEL → deletes last character
